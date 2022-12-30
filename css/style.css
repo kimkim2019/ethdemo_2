@@ -311,7 +311,7 @@ body.active-preloader-ovh {
 .header-navigation .thm-container {
   max-width: 100%;
   background: transparent;
-  padding: 0 50px;
+  padding: 10px 50px;
   position: relative;
 }
 .header-navigation .thm-container .navbar-header {
